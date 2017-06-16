@@ -1,7 +1,7 @@
 {
-  "name": "redux-simple-starter",
+  "name": "redux-book-list",
   "version": "1.0.0",
-  "description": "Simple starter package for Redux with React and Babel support",
+  "description": "Simple Redux app to display a list of books.",
   "main": "index.js",
   "repository": "git@github.com:StephenGrider/ReduxSimpleStarter.git",
   "scripts": {

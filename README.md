@@ -1,9 +1,11 @@
 # Redux Book List
 
+Really basic React app with a list component ...
+
 ## Getting Started
 
 ```shell
-> git clone https://github.com/studyingMole/redux-book-list.git
+> git clone https://github.com/CodeSchwert/redux-book-list.git
 > cd redux-book-list
 > npm install
 > npm start
